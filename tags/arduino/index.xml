@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino on online resume</title>
+    <link>https://approdriguez.github.io/tags/arduino/</link>
+    <description>Recent content in Arduino on online resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Ahisahar Pretel Rodriguez</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/arduino/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduino Coil Gun</title>
+      <link>https://approdriguez.github.io/project/arduino-coil-gun/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://approdriguez.github.io/project/arduino-coil-gun/</guid>
+      <description>&lt;p&gt;Using an Arduino to control and display the different stages between a coil gun, charged and fire. Close the charge stage once the capacitors are charged, display the info at the LCD screen and using a relay control the fire button. Code and instructions available soon on GitHub.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
